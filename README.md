@@ -23,11 +23,13 @@ With 5 years of experience as a Product Manager, I'm new to the world of front e
 
 ## **Game-Changing Projects** 🌟🎮
 
-✨ Join me on a journey through some of the game-changing projects I've developed:
+✨ Embark on my journey to learn and explore the front end world as we delve into my past projects that have brought about game-changing experiences:
 
-1. [🍅 Pomify](https://pomify.vercel.app/): A pomodoro timer application with Spotify integration, helping users boost productivity and stay focused.
-2. [⌚ Rolex Showcase](https://rolex-showcase.vercel.app/): A simple landing page to showcase Rolex watches, highlighting their elegance and craftsmanship.
-3. [🐍 Retro Snake](https://oldskool-snake.vercel.app/): The classic snake game in a handheld console brought to life with modern twists, offering a nostalgic gaming experience.
+1. [🍅 Pomify](https://felixmandela.vercel.app/): My first foray into REST APIs! Pomify is a pomodoro timer application with Spotify integration. I leveraged Spotify's API, including the authorization flow, to allow users to enhance their productivity with customized work and break sessions accompanied by their favorite music tracks. This project involved implementing the authorization flow, setting up a backend server using Node.js and Express, and utilizing SCSS and JavaScript to build a sleek user interface.
+
+2. [⌚ Rolex Showcase](https://rolex-showcase.vercel.app/): This project marked my first experience with SCSS, as I designed a simple landing page to showcase Rolex watches. To add an extra touch of interactivity, I used JavaScript to create an infinite loop effect for the list of watches, enhancing the visual appeal and user experience.
+
+3. [🐍 Retro Snake Game](https://oldskool-snake.vercel.app/): Retro Snake holds a special place in my heart as my first-ever portfolio project. I utilized JavaScript to implement the game logic, complete with animations and customizable features. Players can toggle audio and lighting options for a modernized twist on the classic snake game. It was an exciting opportunity to explore JavaScript and showcase my creativity while paying homage to the old-school gaming era.
 
 Feel free to explore my repositories to discover more of my creations!
 
