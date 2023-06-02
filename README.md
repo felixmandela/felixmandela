@@ -1,4 +1,4 @@
-# **Hello, Welcome to Felix Mandela's GitHub!** 🖥️👋🚀
+# **Hello, Welcome to my GitHub!** 🖥️👋🚀
 
 I'm Felix Mandela, a transitioned Front End Developer from a seasoned Product Manager. After managing products for 5 successful years, I decided to switch gears and build them instead. I bring my remote and asynchronous work expertise into this exciting world of front-end development!
 
