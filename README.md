@@ -2,7 +2,7 @@
 
 Player 1 has entered the game! 
 
-I'm Felix Mandela, a seasoned Product Manager turned Front End Developer, on a thrilling quest to create immersive digital experiences. Join me on this epic adventure as we level up our coding skills, conquer new frontiers, and create unforgettable digital experiences! ⚔️🌟
+I'm Felix Mandela, a seasoned Product Manager turned Front End Developer, on a thrilling quest to create immersive digital experiences. Join me on this epic adventure as we level up our coding skills and conquer new frontiers! ⚔️🌟
 
 ## 🌟🌟**About Me**🌟🌟 
 
