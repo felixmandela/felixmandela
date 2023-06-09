@@ -10,7 +10,7 @@ My transition from a Product Manager to a Front End Developer has been an enrich
 
 Here's my powerful tech stack, shaped by hands-on experience and relentless learning:
 
-- 💻 **Front End Technologies** -- HTML, CSS/SCSS, JavaScript, React
+- 💻 **Front End Technologies** -- HTML, CSS/SCSS, JavaScript, React, TypeScript
 - ⚙️ **Back End Technologies** -- Node.js, Express
 - 🚀 **Version Control** -- Git, GitHub
 - 🌐 **Web Technologies** -- REST APIs, JSON
